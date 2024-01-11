@@ -13,7 +13,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aust21&show_icons=true&locale=en&layout=compact" alt="aust21" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aust21&show_icons=true&locale=en&layout=compact" alt="aust21" /></p>
-
+  <div class="stats-container" style="background-color: purple;">
+  <div class="stats-container" style="background-color: purple;">
+    <!-- First image -->
+    <p><img src="https://github-readme-stats.vercel.app/api?username=aust21&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aust21" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aust21&" alt="aust21" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
