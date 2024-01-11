@@ -18,7 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aust21&show_icons=true&locale=en&layout=compact" alt="aust21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aust21&show_icons=true&locale=en" alt="aust21" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aust21&" alt="aust21" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aust21&label=Profile%20views&color=0e75b6&style=flat" alt="aust21" /> </p>
