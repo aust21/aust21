@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">A passionate frontend developer who is also invested in AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aust21&label=Profile%20views&color=0e75b6&style=flat" alt="aust21" /> </p>
+
 
 - 📫 How to reach me **austinngobeni2002@gmail.com**
 
