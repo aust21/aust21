@@ -23,7 +23,7 @@
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-<img align="left" src="https://img.shields.io/badge/java-3DDC84.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left"  src="https://img.shields.io/badge/java-3DDC84.svg?style=for-the-badge&logo=java&logoColor=white" />
 
 <img align="left" src="https://img.shields.io/badge/react-3DDC84.svg?style=for-the-badge&logo=react&logoColor=white" />
 
@@ -49,5 +49,6 @@
 
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aust21&label=Profile%20views&color=0e75b6&style=flat" alt="aust21" /> </p>
+
+
 
