@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aust21&show_icons=true&locale=en&layout=compact" alt="aust21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aust21&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aust21" /></p>
   <div class="stats-container" style="background-color: purple;">
   <div class="stats-container" style="background-color: purple;">
     <!-- First image -->
