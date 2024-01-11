@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
-<h3 align="center">A passionate frontend developer who is also invested in AI</h3>
+<p align="center">A passionate frontend developer who is also invested in AI</p>
 
 <img width = "45%" align="left" src="https://github-readme-stats.vercel.app/api?username=aust21&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aust21" />
 
