@@ -9,8 +9,6 @@
 
 <img align="left" src="https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white" />
 
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-
 <img align="left"  src="https://img.shields.io/badge/java-3DDC84.svg?style=for-the-badge&logo=java&logoColor=white" />
 
 <img align="left" src="https://img.shields.io/badge/bootstrap-%23FF9900.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
