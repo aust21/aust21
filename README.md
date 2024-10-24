@@ -33,5 +33,5 @@
 
 - 📫 How to reach me **kngobeni223@gmail.com**
 - ⚡ Fun fact **i love debugging**
-<h5>If you see any bad code, that's me doing my part to feed AI with bad training data.</h5>
+<h5>If you see any bad code, that's me doing my part to feed AI with bad training data :)</h5>
 
