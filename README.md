@@ -31,7 +31,7 @@
 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
-- 📫 How to reach me **kngobeni223@gmail.com**
+- 📫 Checkout my [portfolio](https://austin-ngobeni.vercel.app/)
 - ⚡ Fun fact **i love debugging**
 <h5>If you see any bad code, that's me doing my part to feed AI with bad training data :)</h5>
 
