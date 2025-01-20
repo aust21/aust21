@@ -11,8 +11,6 @@
 
 <img align="left"  src="https://img.shields.io/badge/java-3DDC84.svg?style=for-the-badge&logo=java&logoColor=white" />
 
-<img align="left" src="https://img.shields.io/badge/bootstrap-%23FF9900.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
 <img align="left" src="https://img.shields.io/badge/tailwind-%23783330.svg?style=for-the-badge&logo=tailwind&logoColor=white" />
 
 <img src="https://img.shields.io/badge/scikitlearn-%FFFF00.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -20,8 +18,6 @@
 <img align="left" src="https://img.shields.io/badge/opencv-3DDC84.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 
 <img align="left" src="https://img.shields.io/badge/mysql-3DDC84.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img align="left" src="https://img.shields.io/badge/blender-3DDC84.svg?style=for-the-badge&logo=blender&logoColor=white" />
 
 <img src="https://img.shields.io/badge/linux-3DDC84.svg?style=for-the-badge&logo=linux&logoColor=white" />
 
