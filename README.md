@@ -1,33 +1,27 @@
-<h1 align="center">Hi 👋, I'm Austin</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Austin+Ngobeni!&pause=99999999&speed=0;" />
+</h1>
 
-<img width = "45%" align="left" src="https://github-readme-stats.vercel.app/api?username=aust21&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aust21" />
+<h4 align="center">A citizen of the milky way galaxy by birth</h4>
 
-<img width = "45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aust21&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aust21" />
-  
+<div align="center">
+   <p>Fun fact: <b>I ♥️ debugging, I debug like I’m searching for UFOs—relentlessly!</b></p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
+<hr/>
 
-<img align="left" src="https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white" />
+<h2 align="center">My Intergalactic Coding Arsenal</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,github,gitlab,sqlite,tailwind,git,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,postgres,flask,opencv,redis" /><br/>
+</div>
+<br/>
 
-<img align="left"  src="https://img.shields.io/badge/java-3DDC84.svg?style=for-the-badge&logo=java&logoColor=white" />
+<hr>
 
-<img align="left" src="https://img.shields.io/badge/tailwind-%23783330.svg?style=for-the-badge&logo=tailwind&logoColor=white" />
-
-<img src="https://img.shields.io/badge/scikitlearn-%FFFF00.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
-<img align="left" src="https://img.shields.io/badge/opencv-3DDC84.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-
-<img align="left" src="https://img.shields.io/badge/mysql-3DDC84.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/linux-3DDC84.svg?style=for-the-badge&logo=linux&logoColor=white" />
-
-<img align="left" src="https://img.shields.io/badge/git-3DDC84.svg?style=for-the-badge&logo=git&logoColor=white" />
-
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-
-- 📫 Checkout my [portfolio](https://austin-ngobeni.vercel.app/)
-- ⚡ Fun fact **i love debugging**
-<h5>If you see any bad code, that's me doing my part to feed AI with bad training data :)</h5>
-
+<div align="center">
+<a href="https://austin-ngobeni.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=&logoColor=white" target="_blank" /> 
+</a>
+</div>
